@@ -1,0 +1,15 @@
+a {
+    text-decoration: none;
+    color: #212121;
+    transition: color 0.2s;
+}
+
+a:hover {
+    color: cornflowerblue;
+}
+
+
+
+a .MuiSvgIcon-root {
+    color: cornflowerblue;
+}
